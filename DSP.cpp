@@ -278,12 +278,12 @@ int main()
 }
 void design1()
 {
-	cout << "\t\t\t\t------------- ASHAR KHALIL, MUSAAB IMRAN--------------\n";
+	cout << "\t\t\t\t------------------- ASHAR KHALIL----------------------\n";
 	cout << "\t\t\t\t-------------	      20K - 1724         --------------\n";
 	cout << "\t\t\t\t---------------- DATA STRUCTURES(A) ------------------\n";
 	cout << "\t\t\t\t------------- HUFFMAN ENCODING PROJECT ---------------\n\n\n";
 	cout << "\t\t\t\t\t/--------------------------------------/";
-	cout << "\n\t\t\t\t\t|      Made with love by MUSAAB :)     | ";
+	cout << "\n\t\t\t\t\t|      Made with love by ASHAR  :)     | ";
 	cout << "\n\t\t\t\t\t| -> Loads data from a file.           |";
 	cout << "\n\t\t\t\t\t| -> Compress through encoding.        |";
 	cout << "\n\t\t\t\t\t| -> Get Huffman code.                 |";
