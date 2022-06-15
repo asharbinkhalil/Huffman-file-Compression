@@ -2,6 +2,15 @@
 Project: Data Compression
 Data Structure Spring 2022
 
+How to run:
+This repositry is only compatible with Visual Studio
+1. Download as Zip.
+2. Extract the folder in source/repo directory of visual studio on your computer.
+3. Open the .sln file.
+4. Success:)
+
+
+
 Introduction
 This project's purpose is to build a data compression method. That is, we want to convey the same
 information in a smaller amount of space given particular data. We'll be concentrating on
